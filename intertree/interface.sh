@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo -ne "\033]0;IterTree - PythonTree Library Interface\007"
 echo "Welcome To InterTree"
 echo "Interface For PythonTree Library"
 echo "Using The Tree Libary For Python"
